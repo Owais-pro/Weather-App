@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#input{
+    width: 40%;
+    border: 3px solid rgb(57, 172, 235);
+    margin-right: 10px;
+}
+#btn{
+    border: 3px solid rgb(237, 117, 87);
+    font-weight: 500;
+    
+}
